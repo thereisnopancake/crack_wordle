@@ -1,4 +1,6 @@
 # crack_wordle
+This was a fun little sideproject during the wordle hype were I tried to crack wordles at a 100% success rate.
+
 
 # how to crack_wordle for your personal daily wordle
 
